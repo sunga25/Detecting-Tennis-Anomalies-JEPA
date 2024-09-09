@@ -1,0 +1,752 @@
+tourney_name,Number of Anomalies
+Wimbledon,431
+Roland Garros,419
+Australian Open,416
+US Open,390
+R,364
+Miami Masters,284
+Indian Wells Masters,247
+Canada Masters,196
+Cincinnati Masters,190
+Monte Carlo Masters,187
+Rome Masters,167
+Queen's Club,163
+Paris Masters,158
+Barcelona,153
+Tokyo,149
+Madrid Masters,148
+Washington,125
+Kitzbuhel,119
+Stuttgart,113
+Auckland,112
+Bucharest,106
+Halle,105
+Newport,103
+Delray Beach,103
+Memphis,103
+Basel,102
+Hamburg Masters,98
+Munich,97
+Stockholm,96
+Rotterdam,95
+Bastad,95
+San Jose,95
+Vienna,94
+Buenos Aires,93
+Dubai,93
+Indianapolis,93
+Sydney,92
+Moscow,91
+Umag,91
+Acapulco,89
+Houston,89
+Estoril,87
+Marseille,86
+St. Petersburg,85
+Los Angeles,78
+Casablanca,76
+Valencia,76
+Gstaad,76
+Beijing,75
+Shanghai Masters,74
+L,72
+Metz,72
+Costa Do Sauipe,72
+Nottingham,68
+Doha,68
+Lyon,63
+Hamburg,63
+New Haven,62
+Dusseldorf,61
+Bangkok,59
+Brisbane,54
+Zagreb,52
+Vina del Mar,52
+'s-Hertogenbosch,49
+Amersfoort,48
+Atlanta,48
+Winston-Salem,47
+Chennai,47
+Sopot,38
+St. Poelten,38
+Palermo,38
+Nice,37
+s-Hertogenbosch,37
+Eastbourne,37
+Kuala Lumpur,34
+Bogota,34
+Scottsdale,34
+Long Island,34
+Santiago,33
+Milan,33
+Montpellier,29
+Shanghai,27
+Copenhagen,26
+Masters Cup,24
+Tashkent,24
+Hong Kong,23
+Johannesburg,23
+Poertschach,22
+Stuttgart Masters,21
+Mallorca,20
+Adelaide,20
+Tour Finals,20
+Sao Paulo,20
+Belgrade,18
+Mumbai,17
+Sydney Olympics,17
+Las Vegas,15
+Beijing Olympics,14
+Athens Olympics,14
+Amsterdam,11
+London,11
+ATP Challenger Tour Finals CH,9
+Shenzhen,9
+London Olympics,9
+Rio de Janeiro,8
+Viña del Mar,7
+Quito,7
+Mexico City,6
+Power Horse Cup,6
+San Marino,6
+Geneva,6
+Istanbul,5
+Stuttgart Outdoor,5
+Sopot - WS,5
+Davis Cup WG SF: ESP vs USA,5
+Brighton,5
+Wrexham CH,5
+Ho Chi Minh City,5
+U,5
+Curitiba CH,4
+Warsaw,4
+Davis Cup G2 SF: GRE vs SLO,4
+Orlando,4
+Challenger Tour Finals,4
+Davis Cup WG QF: BEL vs CAN,3
+Davis Cup G2 F: MKD vs FIN,3
+Davis Cup WG PO: USA vs IND,3
+Davis Cup G2 SF: COL vs URU,3
+Davis Cup G2 R2: IRL vs UKR,3
+Davis Cup WG SF: CRO vs RUS,3
+Davis Cup G2 QF: GRE vs NOR,3
+Davis Cup G2 R1: BLR vs MDA,3
+Davis Cup WG R1: CZE vs BRA,3
+Davis Cup WG R1: CAN vs ESP,3
+Davis Cup G1 R2: RSA vs GER,3
+Davis Cup G1 PO: RSA vs GRE,3
+Davis Cup G1 R1: SWE vs AUT,3
+Davis Cup WG SF: CZE vs ARG,3
+Toulouse,3
+Davis Cup WG R1: FRA vs NED,3
+Davis Cup G1 QF: CAN vs MEX,3
+Davis Cup WG PO: DOM vs GER,3
+Davis Cup G1 R1: ROU vs ISR,3
+Davis Cup G2 R1: BUL vs EGY,3
+Davis Cup G2 PO: BUL vs ISR,3
+Davis Cup G1 R2: UZB vs KOR,3
+Davis Cup WG F: SRB vs CZE,3
+Davis Cup G1 R1: UKR vs POR,2
+Davis Cup WG PO: ESP vs UZB,2
+Davis Cup WG R1: CRO vs GER,2
+Davis Cup G1 R2: ECU vs PER,2
+Davis Cup WG PO: SVK vs SRB,2
+Davis Cup WG R1: CZE vs GBR,2
+Davis Cup G1 R2: RSA vs BLR,2
+Davis Cup WG QF: FRA vs ESP,2
+Davis Cup G1 R2: CRO vs ITA,2
+Davis Cup G2 R2: CHN vs TPE,2
+Davis Cup WG SF: FRA vs CZE,2
+Davis Cup WG PO: AUT vs GBR,2
+Davis Cup G1 R1: CAN vs COL,2
+Davis Cup G1 QF: ROU vs HUN,2
+Davis Cup G2 R3: LTU vs SLO,2
+Davis Cup WG PO: BRA vs CAN,2
+Davis Cup G2 R2: FIN vs MON,2
+Davis Cup G2 R1: MON vs FIN,2
+Davis Cup G2 R1: UKR vs MON,2
+Davis Cup G1 R1: THA vs KOR,2
+Davis Cup WG PO: ZIM vs ROU,2
+Davis Cup G1 R1: CHN vs JPN,2
+Davis Cup G1 R1: RUS vs DEN,2
+Davis Cup G1 PO: MEX vs PER,2
+Davis Cup WG SF: NED vs FRA,2
+Davis Cup G2 F: NZL vs KOR,2
+Davis Cup G1 PO: MEX vs CHI,2
+Davis Cup G2 PO: MDA vs TUR,2
+Davis Cup G1 PO: MEX vs URU,2
+Davis Cup WG R1: GBR vs USA,2
+Davis Cup WG PO: GER vs BRA,2
+Davis Cup G1 PO: SVK vs MKD,2
+Davis Cup WG R1: BEL vs CZE,2
+Davis Cup G2 PO: IRI vs KAZ,2
+Davis Cup G1 R2: THA vs UZB,2
+Davis Cup WG QF: ESP vs GER,2
+Davis Cup WG QF: AUS vs GER,2
+Davis Cup G2 R1: BAR vs CHI,2
+Davis Cup G2 R1: EGY vs LAT,2
+Davis Cup WG R1: PER vs ESP,2
+Davis Cup G2 F: POR vs SLO,2
+Davis Cup WG PO: SVK vs KOR,2
+Davis Cup G1 R2: KOR vs UZB,2
+Davis Cup WG QF: FRA vs CZE,2
+Davis Cup WG R1: CZE vs NED,2
+Davis Cup G1 R1: BAR vs DOM,2
+Davis Cup WG SF: RUS vs GER,2
+Davis Cup G1 R2: RSA vs FIN,2
+Davis Cup G1 R2: NZL vs IND,2
+Davis Cup G1 R1: NED vs FIN,2
+Davis Cup G2 QF: LUX vs YUG,2
+Davis Cup G2 R2: IRL vs LTU,2
+Davis Cup G2 PO: YUG vs POL,2
+Davis Cup WG R1: RUS vs IND,2
+Davis Cup WG QF: USA vs CHI,2
+Davis Cup G2 R1: BUL vs MON,2
+Davis Cup G2 R3: KOR vs THA,2
+Davis Cup G2 R1: BOL vs VEN,2
+Davis Cup G1 PO: CHN vs TPE,2
+Davis Cup WG R1: ARG vs NED,2
+Davis Cup G2 R1: ALG vs HUN,2
+Davis Cup WG SF: AUS vs SWE,2
+Davis Cup G2 R3: DEN vs MDA,2
+Davis Cup G2 F: URU vs BRA,2
+Davis Cup G1 R1: CAN vs ECU,2
+Davis Cup WG R1: CHI vs SVK,2
+Davis Cup WG PO: NED vs KOR,2
+Davis Cup G1 PO: CHN vs PAK,2
+Davis Cup G2 F: MON vs RSA,2
+Davis Cup WG R1: NED vs CAN,2
+Davis Cup G2 R1: VEN vs GUA,2
+Davis Cup G1 R2: ITA vs SLO,2
+Davis Cup G2 R2: THA vs KUW,2
+Davis Cup WG SF: CRO vs CZE,2
+Davis Cup WG QF: AUS vs BLR,2
+Davis Cup G2 R1: EGY vs SLO,2
+Davis Cup G2 R1: NOR vs HUN,2
+Davis Cup WG PO: ITA vs CRO,2
+Davis Cup G2 F: INA vs TPE,2
+Davis Cup G2 R1: IRL vs EST,2
+Davis Cup G2 R1: CYP vs POR,2
+Davis Cup WG R1: ARG vs BRA,2
+Davis Cup G2 F: MEX vs VEN,2
+Davis Cup G2 R2: CHI vs MEX,2
+Davis Cup G1 PO: NED vs POR,2
+Davis Cup G1 R2: CHI vs ECU,2
+Davis Cup G1 R2: ITA vs SVK,2
+Davis Cup WG R1: ROU vs BLR,2
+Davis Cup WG QF: FRA vs USA,2
+Davis Cup WG QF: BLR vs ARG,2
+Davis Cup G1 R1: FIN vs SLO,2
+Davis Cup G1 R2: JPN vs CHN,2
+Davis Cup WG PO: CZE vs ROU,2
+Davis Cup WG R1: USA vs BRA,2
+Davis Cup G1 R1: GBR vs SVK,2
+Davis Cup G1 R1: SUI vs POL,2
+Davis Cup G2 R1: KUW vs THA,2
+Davis Cup G1 R2: BRA vs COL,2
+Davis Cup G2 SF: CRO vs CIV,2
+Davis Cup G2 R1: MDA vs EGY,2
+Davis Cup WG QF: SWE vs SRB,2
+Davis Cup G2 R2: URU vs ECU,2
+Davis Cup WG QF: ESP vs RUS,2
+Davis Cup WG R1: SWE vs ARG,2
+Davis Cup G1 R2: CHN vs KAZ,2
+Davis Cup G2 R1: MAR vs BIH,2
+Davis Cup G1 QF: FIN vs ITA,2
+Davis Cup WG F: ESP vs ARG,2
+Davis Cup G1 PO: RUS vs POR,2
+Davis Cup G2 R1: COL vs BRA,2
+Davis Cup WG R1: SWE vs RUS,2
+Davis Cup WG QF: SUI vs FRA,2
+Davis Cup WG R1: CRO vs USA,2
+Davis Cup G2 R3: DOM vs VEN,2
+Davis Cup G1 SF: ARG vs CAN,2
+Davis Cup G1 R2: CHN vs UZB,2
+Davis Cup WG QF: CRO vs ROU,2
+Davis Cup G1 R1: URU vs COL,2
+Davis Cup G1 R2: GBR vs SCG,2
+Davis Cup WG R1: AUS vs GBR,2
+Davis Cup G1 R2: RSA vs NED,2
+Davis Cup G1 PO: SLO vs RSA,2
+Davis Cup G1 PO: VEN vs URU,2
+Davis Cup WG QF: SUI vs KAZ,2
+Davis Cup G1 PO: POR vs RSA,2
+Davis Cup WG R1: CRO vs CHI,2
+Davis Cup WG R1: GER vs FRA,2
+Davis Cup G2 R2: RSA vs LTU,2
+Davis Cup WG R1: JPN vs CAN,1
+Davis Cup G2 R1: HUN vs BUL,1
+Davis Cup WG PO: ROU vs CZE,1
+Davis Cup G1 PO: MEX vs COL,1
+Davis Cup WG R1: SRB vs SUI,1
+Davis Cup WG PO: ROU vs KOR,1
+Davis Cup G1 PO: ROU vs FIN,1
+Davis Cup G1 PO: THA vs CHN,1
+Davis Cup G1 R1: NZL vs IND,1
+Davis Cup G2 F: POL vs MAR,1
+Davis Cup WG R1: ESP vs BEL,1
+Davis Cup G2 R1: LUX vs MAD,1
+Davis Cup G1 R2: GBR vs NED,1
+Davis Cup G2 R1: GHA vs FIN,1
+Davis Cup WG R1: AUT vs CRO,1
+Davis Cup G2 PO: NGR vs UKR,1
+Davis Cup G2 PO: IRI vs HKG,1
+Davis Cup WG R1: KAZ vs ITA,1
+Davis Cup G2 R1: TUN vs LAT,1
+Davis Cup G2 R2: LUX vs BUL,1
+Davis Cup G1 QF: BLR vs RSA,1
+Davis Cup G1 SF: NZL vs IND,1
+Davis Cup G2 PO: PUR vs BOL,1
+Davis Cup G2 R3: DOM vs MEX,1
+Davis Cup G1 SF: CAN vs CHI,1
+Davis Cup WG PO: CAN vs BLR,1
+Davis Cup G1 SF: BAH vs CHI,1
+Davis Cup G2 R3: DEN vs BIH,1
+Davis Cup G2 R2: POR vs LTU,1
+Davis Cup G1 R2: GER vs ISR,1
+Davis Cup WG R1: ESP vs SRB,1
+Davis Cup G2 F: HUN vs SCG,1
+Davis Cup G2 R1: AHO vs BAH,1
+Davis Cup G2 R1: BOL vs PER,1
+Davis Cup G2 R1: CHN vs LIB,1
+Davis Cup G1 PO: ISR vs ZIM,1
+Davis Cup G2 R1: TUR vs BIH,1
+Davis Cup G2 R3: MDA vs POR,1
+Davis Cup G1 R2: ROU vs SVK,1
+Davis Cup G2 PO: TUR vs MDA,1
+Davis Cup WG SF: FRA vs ARG,1
+Davis Cup WG PO: SVK vs CHI,1
+Davis Cup G2 R1: LTU vs GBR,1
+Davis Cup WG R1: RUS vs CHI,1
+Davis Cup G2 R2: PAR vs MEX,1
+Davis Cup G2 R1: PAR vs CUB,1
+Davis Cup WG PO: ISR vs PER,1
+Davis Cup WG QF: FRA vs RUS,1
+Davis Cup WG PO: ITA vs ESP,1
+Davis Cup G1 R1: IND vs JPN,1
+Davis Cup G2 R2: NZL vs KUW,1
+Davis Cup G2 R3: DEN vs RSA,1
+Davis Cup G2 R2: BUL vs HUN,1
+Davis Cup G1 R2: NED vs ITA,1
+Davis Cup G2 R1: LTU vs CIV,1
+Davis Cup G1 R1: VEN vs MEX,1
+Davis Cup G1 R2: URU vs COL,1
+Davis Cup G1 QF: PER vs BAH,1
+Davis Cup WG R1: ROU vs SUI,1
+Davis Cup G2 R1: RSA vs POL,1
+Davis Cup G1 PO: KOR vs INA,1
+Davis Cup WG PO: CAN vs COL,1
+Davis Cup G1 R1: SLO vs POR,1
+Davis Cup G2 R1: EST vs LUX,1
+Davis Cup WG PO: THA vs CZE,1
+Davis Cup G1 PO: ISR vs GRE,1
+Davis Cup WG PO: SVK vs GER,1
+Davis Cup WG SF: ESP vs ARG,1
+Davis Cup G2 F: CHN vs KOR,1
+Davis Cup G1 R1: SVK vs LAT,1
+Davis Cup G2 PO: GRE vs ZIM,1
+Davis Cup G2 R1: ALG vs POL,1
+Davis Cup G2 QF: DEN vs CIV,1
+Davis Cup G2 QF: SLO vs IRL,1
+Davis Cup WG F: ESP vs CZE,1
+Davis Cup G1 R2: JPN vs IND,1
+Davis Cup G2 QF: CIV vs BUL,1
+Davis Cup G2 R2: TUR vs BLR,1
+Davis Cup G1 PO: PER vs ECU,1
+Davis Cup WG PO: CZE vs GER,1
+Davis Cup G2 R1: BUL vs GRE,1
+Davis Cup G2 R1: YUG vs RSA,1
+Davis Cup WG R1: AUS vs SWE,1
+Davis Cup G1 R1: UZB vs CHN,1
+Davis Cup G2 R3: POR vs BIH,1
+Davis Cup WG QF: ARG vs FRA,1
+Davis Cup G2 PO: UKR vs IRL,1
+Davis Cup G1 QF: NZL vs INA,1
+Davis Cup G1 R1: AUS vs CHN,1
+Davis Cup G1 R1: INA vs JPN,1
+Davis Cup G2 R1: SLO vs POL,1
+Davis Cup G1 R2: THA vs JPN,1
+Davis Cup G2 PO: GRE vs HUN,1
+Davis Cup WG R1: USA vs CRO,1
+Davis Cup G1 PO: KOR vs UZB,1
+Davis Cup G1 R1: ECU vs VEN,1
+Davis Cup G1 R2: AUT vs NED,1
+Davis Cup G2 R1: BUL vs UKR,1
+Davis Cup WG PO: AUS vs UZB,1
+Davis Cup WG SF: BEL vs ARG,1
+Davis Cup G2 PO: AND vs EGY,1
+Davis Cup WG PO: UZB vs NED,1
+Davis Cup G1 QF: CHI vs CAN,1
+Davis Cup WG PO: BRA vs ECU,1
+Davis Cup G1 R1: PHI vs JPN,1
+Davis Cup WG R1: CZE vs ITA,1
+Davis Cup WG R1: ZIM vs USA,1
+Davis Cup G1 R1: SVK vs SLO,1
+Davis Cup G1 R2: AUS vs KOR,1
+Davis Cup WG R1: KAZ vs BEL,1
+Davis Cup WG PO: RSA vs CRO,1
+Davis Cup G1 PO: IND vs INA,1
+Davis Cup G1 R2: MEX vs CAN,1
+Davis Cup G1 R2: UZB vs IND,1
+Davis Cup WG QF: ESP vs AUT,1
+Davis Cup G2 QF: URU vs COL,1
+Davis Cup G2 R3: BUL vs HUN,1
+Davis Cup G2 R1: UKR vs NOR,1
+Davis Cup G2 R2: POR vs ALG,1
+Davis Cup G2 R2: FIN vs LAT,1
+Davis Cup G1 R2: TPE vs IND,1
+Davis Cup WG R1: ESP vs MAR,1
+Davis Cup WG QF: RUS vs CZE,1
+Davis Cup G1 R2: RUS vs ESP,1
+Davis Cup G2 R1: POC vs THA,1
+Davis Cup G1 QF: JPN vs KOR,1
+Davis Cup G1 PO: PAK vs KOR,1
+Davis Cup WG PO: JPN vs ISR,1
+Davis Cup G2 R1: RSA vs MON,1
+Davis Cup G2 R1: ESA vs DOM,1
+Davis Cup WG F: USA vs RUS,1
+Davis Cup G2 R1: IRI vs INA,1
+Davis Cup G2 R2: POR vs SCG,1
+Davis Cup WG PO: ROU vs ECU,1
+Davis Cup WG PO: COL vs JPN,1
+Davis Cup G1 QF: INA vs UZB,1
+Davis Cup WG R1: ARG vs GER,1
+Davis Cup WG R1: SVK vs RUS,1
+Davis Cup G2 F: KAZ vs INA,1
+Davis Cup G1 QF: JPN vs THA,1
+Davis Cup G1 R1: PER vs VEN,1
+Davis Cup G2 R1: UKR vs BUL,1
+Davis Cup WG PO: COL vs USA,1
+Davis Cup G2 R2: RSA vs DEN,1
+Davis Cup G1 R1: ISR vs SCG,1
+Davis Cup G2 R1: EST vs POR,1
+Davis Cup G1 R1: CHN vs NZL,1
+Davis Cup G1 R2: URU vs CHI,1
+Davis Cup WG PO: BEL vs SWE,1
+Davis Cup G2 R1: FIN vs IRL,1
+Davis Cup G2 PO: LAT vs TUN,1
+Davis Cup G1 R1: AUT vs ISR,1
+Davis Cup G2 F: UKR vs BUL,1
+Davis Cup G2 R2: KUW vs NZL,1
+Davis Cup G2 R3: FIN vs CYP,1
+Davis Cup G1 R3: UZB vs JPN,1
+Davis Cup WG PO: RSA vs IND,1
+Davis Cup G2 PO: CYP vs BUL,1
+Davis Cup G1 R2: ECU vs BRA,1
+Davis Cup G2 R1: DEN vs TUN,1
+Davis Cup G2 R1: HUN vs EGY,1
+Davis Cup G2 QF: TRI vs URU,1
+Davis Cup WG F: AUS vs FRA,1
+Davis Cup G2 SF: NOR vs CIV,1
+Davis Cup G1 PO: THA vs KAZ,1
+Davis Cup WG R1: SRB vs USA,1
+Davis Cup G1 PO: IND vs NZL,1
+Davis Cup G1 R1: IND vs UZB,1
+Davis Cup G2 SF: TPE vs PAK,1
+Davis Cup G2 PO: HUN vs LUX,1
+Davis Cup WG PO: CHI vs AUT,1
+Davis Cup G2 PO: IRL vs SLO,1
+Davis Cup G2 R2: POR vs FIN,1
+Davis Cup G2 R3: POL vs BLR,1
+Davis Cup G2 PO: UKR vs CIV,1
+Davis Cup G1 R2: MKD vs NED,1
+Davis Cup G1 R1: IND vs TPE,1
+Davis Cup G2 SF: GRE vs DEN,1
+Davis Cup WG R1: CHI vs RUS,1
+Davis Cup WG SF: ESP vs FRA,1
+Davis Cup G2 R1: VEN vs HAI,1
+Davis Cup WG SF: ARG vs CZE,1
+Davis Cup G1 PO: KAZ vs TPE,1
+Davis Cup G1 R2: BEL vs ZIM,1
+Davis Cup G1 R2: ECU vs CAN,1
+Davis Cup G1 R1: PAK vs THA,1
+Davis Cup G2 PO: TUN vs BLR,1
+Davis Cup WG PO: RUS vs ITA,1
+Davis Cup WG R1: MAR vs ARG,1
+Davis Cup G2 R1: NOR vs UKR,1
+Davis Cup G2 PO: JAM vs CUB,1
+Davis Cup G1 PO: JPN vs THA,1
+Davis Cup WG R1: ARG vs CZE,1
+Davis Cup WG QF: FRA vs GER,1
+Davis Cup G1 PO: LAT vs AUT,1
+Davis Cup G1 R1: TPE vs AUS,1
+Davis Cup WG R1: CZE vs AUS,1
+Davis Cup WG F: ARG vs ESP,1
+Davis Cup WG R1: ESP vs SUI,1
+Davis Cup G2 R2: THA vs INA,1
+Davis Cup G2 PO: CHI vs PAR,1
+Davis Cup G2 R1: GBR vs TUN,1
+Davis Cup WG QF: RUS vs ARG,1
+Davis Cup WG PO: CZE vs SUI,1
+Davis Cup WG PO: BRA vs SWE,1
+Davis Cup G2 R1: MKD vs BIH,1
+Davis Cup G2 R1: POL vs LAT,1
+Davis Cup G2 R2: POR vs CYP,1
+Davis Cup G2 PO: GBR vs TUR,1
+Davis Cup G2 R1: AND vs GRE,1
+Davis Cup G1 PO: PHI vs UZB,1
+Davis Cup G1 QF: ROU vs AUT,1
+Davis Cup G2 PO: IRI vs MAS,1
+Davis Cup G2 R1: IRL vs LUX,1
+Davis Cup G2 R1: URU vs DOM,1
+Davis Cup G2 R2: NZL vs PAK,1
+Davis Cup G1 R1: PER vs BRA,1
+Davis Cup WG QF: AUS vs KAZ,1
+Davis Cup G2 R3: BAR vs MEX,1
+Davis Cup WG PO: BEL vs ISR,1
+Davis Cup WG SF: FRA vs USA,1
+Davis Cup G1 PO: PER vs CAN,1
+Davis Cup WG PO: FIN vs NED,1
+Davis Cup G1 PO: TPE vs CHN,1
+Davis Cup WG PO: AUS vs SUI,1
+Davis Cup G2 PO: PUR vs JAM,1
+Davis Cup G1 R1: TPE vs JPN,1
+Davis Cup G1 R2: ECU vs CHI,1
+Davis Cup G1 PO: MEX vs CAN,1
+Davis Cup WG PO: KAZ vs SUI,1
+Davis Cup G1 QF: KOR vs NZL,1
+Davis Cup G2 R1: MEX vs ESA,1
+Davis Cup G1 R2: CAN vs PER,1
+Davis Cup WG R1: CZE vs KAZ,1
+Davis Cup G2 QF: ISR vs RSA,1
+Davis Cup WG SF: GBR vs AUS,1
+Davis Cup WG PO: IND vs SRB,1
+Davis Cup G1 R2: PAK vs TPE,1
+Davis Cup G2 PO: CUB vs TRI,1
+Davis Cup G1 R2: ITA vs MAR,1
+Davis Cup G2 R1: JAM vs MEX,1
+Davis Cup G2 PO: NOR vs ALG,1
+Davis Cup G1 R2: IND vs JPN,1
+Davis Cup G2 R2: BUL vs LAT,1
+Davis Cup G1 R1: UKR vs SVK,1
+Davis Cup G2 R2: FIN vs ALG,1
+Davis Cup G1 PO: GBR vs POL,1
+Davis Cup WG PO: RUS vs THA,1
+Davis Cup WG SF: RUS vs USA,1
+Davis Cup G1 R2: GBR vs BEL,1
+Davis Cup G2 R2: DOM vs URU,1
+Davis Cup G1 R2: THA vs AUS,1
+Davis Cup WG QF: ESP vs CRO,1
+Davis Cup G2 F: URU vs PER,1
+Davis Cup WG PO: ITA vs BEL,1
+Davis Cup G2 F: DOM vs PAR,1
+Davis Cup G2 R1: PHI vs PAK,1
+Davis Cup WG PO: SVK vs USA,1
+Davis Cup G1 R1: NOR vs AUT,1
+Davis Cup WG PO: ITA vs SUI,1
+Davis Cup G2 R3: MEX vs VEN,1
+Davis Cup G1 R2: AUT vs SVK,1
+Davis Cup G2 PO: POL vs EST,1
+Davis Cup G2 R1: MON vs MNE,1
+Davis Cup G1 R2: JPN vs UZB,1
+Davis Cup G2 R1: GRE vs MKD,1
+Davis Cup WG R1: NED vs ESP,1
+Davis Cup G2 R2: FIN vs BIH,1
+Davis Cup G2 QF: KAZ vs TPE,1
+Davis Cup G2 R1: GRE vs LAT,1
+Davis Cup G1 PO: ISR vs SLO,1
+Davis Cup G2 PO: EGY vs DEN,1
+Davis Cup WG PO: ISR vs ARG,1
+Davis Cup G2 R2: SLO vs BUL,1
+Davis Cup WG R1: BLR vs SWE,1
+Davis Cup WG R1: RUS vs SUI,1
+Davis Cup WG R1: AUS vs ECU,1
+Davis Cup G2 PO: GHA vs GEO,1
+Davis Cup WG R1: FRA vs ROU,1
+Davis Cup WG PO: SUI vs SCG,1
+Davis Cup WG QF: ARG vs KAZ,1
+Davis Cup G1 PO: KAZ vs IND,1
+Davis Cup G2 R1: PAR vs BAH,1
+Davis Cup WG PO: ITA vs CHI,1
+Davis Cup G1 R2: CHI vs CAN,1
+Davis Cup G2 R1: RSA vs YUG,1
+Davis Cup G1 R2: ECU vs VEN,1
+Davis Cup WG R1: KAZ vs AUT,1
+Davis Cup G1 R2: COL vs BRA,1
+Davis Cup WG F: ESP vs USA,1
+Davis Cup WG PO: KAZ vs UZB,1
+Davis Cup G1 R2: ITA vs LUX,1
+Davis Cup WG QF: ESP vs NED,1
+Davis Cup G2 R3: LAT vs SLO,1
+Davis Cup G1 R2: NED vs ROU,1
+Davis Cup WG R1: ESP vs KAZ,1
+Davis Cup WG R1: ISR vs SWE,1
+Davis Cup G2 PO: LAT vs MAD,1
+Davis Cup G2 QF: DEN vs HUN,1
+Davis Cup G2 R3: LAT vs UKR,1
+Davis Cup G2 R3: BIH vs LTU,1
+Davis Cup WG R1: CRO vs ECU,1
+Davis Cup G1 QF: CHN vs IND,1
+Davis Cup G2 PO: ESA vs CUB,1
+Davis Cup G2 R1: MAR vs DEN,1
+Davis Cup G2 PO: IRI vs KUW,1
+Davis Cup WG R1: BEL vs SUI,1
+Davis Cup G1 R1: MEX vs CAN,1
+Davis Cup G2 R2: PER vs VEN,1
+Davis Cup G1 SF: VEN vs ECU,1
+Davis Cup G2 R2: GRE vs POL,1
+Davis Cup G1 PO: LUX vs MAR,1
+Davis Cup G2 R1: NZL vs KAZ,1
+Davis Cup G1 R2: SLO vs ISR,1
+Davis Cup G1 R2: BRA vs URU,1
+Davis Cup WG PO: ISR vs CAN,1
+Davis Cup WG R1: SUI vs CZE,1
+Davis Cup G2 R1: FIN vs BUL,1
+Davis Cup G1 R2: SRB vs GEO,1
+Davis Cup G2 R1: IRL vs BLR,1
+Davis Cup G2 R2: COL vs PAR,1
+Davis Cup G1 PO: JPN vs LIB,1
+Davis Cup G1 R2: SCG vs BEL,1
+Davis Cup WG PO: SWE vs ITA,1
+Davis Cup WG PO: BEL vs USA,1
+Davis Cup G2 R1: POL vs EST,1
+Davis Cup G1 R1: AUS vs TPE,1
+Davis Cup G1 PO: BLR vs GEO,1
+Davis Cup G2 PO: RSA vs IRL,1
+Davis Cup G1 R2: UKR vs SWE,1
+Davis Cup G1 PO: THA vs INA,1
+Davis Cup G2 R1: MDA vs HUN,1
+Davis Cup G1 R2: ISR vs POR,1
+Davis Cup G2 R1: FIN vs RSA,1
+Davis Cup WG R1: CZE vs BEL,1
+Davis Cup WG PO: BRA vs RUS,1
+Davis Cup WG R1: SVK vs ESP,1
+Davis Cup G1 R1: KAZ vs THA,1
+Davis Cup G2 R2: BLR vs BIH,1
+Davis Cup G2 SF: LUX vs ISR,1
+Davis Cup G1 R1: TPE vs THA,1
+Davis Cup WG QF: USA vs SRB,1
+Davis Cup WG R1: SUI vs AUS,1
+Davis Cup G2 R1: POR vs MAR,1
+Davis Cup G1 QF: BAH vs PER,1
+Davis Cup G2 PO: EGY vs MAR,1
+Davis Cup WG F: SVK vs CRO,1
+Davis Cup G2 R3: PAR vs PER,1
+Davis Cup G1 R1: ECU vs CHI,1
+Davis Cup G2 PO: PER vs BOL,1
+Davis Cup G2 R2: KAZ vs NZL,1
+Davis Cup G2 R2: PER vs DOM,1
+Davis Cup G1 QF: MAR vs UKR,1
+Davis Cup G1 SF: THA vs JPN,1
+Davis Cup G2 PO: GEO vs EGY,1
+Davis Cup WG PO: GER vs BLR,1
+Davis Cup G1 QF: BAH vs VEN,1
+Davis Cup G2 R1: POR vs TUN,1
+Davis Cup WG PO: AUS vs BEL,1
+Davis Cup G1 PO: BLR vs NED,1
+Davis Cup WG PO: SWE vs ROU,1
+Davis Cup WG R1: AUT vs ARG,1
+Davis Cup G2 R1: INA vs IRI,1
+Davis Cup G2 R3: CHI vs VEN,1
+Davis Cup G2 R1: NGR vs POL,1
+Davis Cup G2 R1: ALG vs SLO,1
+Davis Cup G1 PO: VEN vs ECU,1
+Davis Cup WG R1: BLR vs ESP,1
+Davis Cup WG PO: IND vs CZE,1
+Davis Cup G2 SF: PAR vs PER,1
+Davis Cup G1 PO: SVK vs POR,1
+Davis Cup WG PO: MAR vs SUI,1
+Davis Cup WG F: FRA vs RUS,1
+Davis Cup G1 R2: TPE vs KOR,1
+Davis Cup G2 PO: DEN vs EST,1
+Davis Cup WG QF: USA vs ESP,1
+Davis Cup G2 R1: TUR vs DEN,1
+Davis Cup G1 R1: VEN vs PAR,1
+Davis Cup WG SF: ESP vs ISR,1
+Davis Cup G2 PO: RSA vs HUN,1
+Davis Cup G1 R1: UZB vs IND,1
+Davis Cup WG R1: GER vs AUT,1
+Davis Cup G2 R2: UKR vs HUN,1
+Davis Cup G2 F: LAT vs MON,1
+Davis Cup G1 PO: PAK vs NZL,1
+Davis Cup G2 R1: ZIM vs BIH,1
+Davis Cup G2 R2: POL vs EST,1
+Davis Cup G2 QF: VEN vs URU,1
+Davis Cup WG SF: SRB vs ARG,1
+Davis Cup WG PO: SUI vs ECU,1
+Davis Cup WG PO: RUS vs BRA,1
+Davis Cup G2 R1: BLR vs BUL,1
+Davis Cup G1 R1: TPE vs UZB,1
+Davis Cup G2 R2: POL vs ALG,1
+Davis Cup WG R1: USA vs ROU,1
+Davis Cup WG PO: BEL vs MAR,1
+Davis Cup G1 PO: VEN vs CHI,1
+Davis Cup WG PO: POL vs SVK,1
+Davis Cup G2 PO: EGY vs GEO,1
+Davis Cup G1 R1: DOM vs URU,1
+Davis Cup G1 R1: UKR vs LAT,1
+Davis Cup G1 R2: BRA vs CAN,1
+Davis Cup WG SF: SWE vs USA,1
+Davis Cup G1 R1: JPN vs CHN,1
+Davis Cup WG R1: SWE vs CZE,1
+Davis Cup G2 SF: LIB vs HKG,1
+Davis Cup WG R1: FRA vs GER,1
+Davis Cup WG QF: RUS vs FRA,1
+Davis Cup WG QF: SWE vs RUS,1
+Davis Cup WG PO: USA vs SVK,1
+Davis Cup WG R1: GER vs ROU,1
+Davis Cup WG R1: CZE vs ESP,1
+Davis Cup G2 PO: MON vs MAR,1
+Davis Cup WG R1: AUT vs RUS,1
+Davis Cup WG SF: SRB vs CZE,1
+Davis Cup G1 R2: SUI vs POR,1
+Davis Cup WG R1: SRB vs SWE,1
+Davis Cup WG QF: CRO vs SRB,1
+Davis Cup G1 QF: IND vs LIB,1
+Davis Cup G1 R1: MEX vs ECU,1
+Davis Cup WG PO: MAR vs GBR,1
+Davis Cup WG QF: USA vs FRA,1
+Davis Cup WG PO: JPN vs COL,1
+Davis Cup G2 R2: INA vs CHN,1
+Davis Cup G2 R2: NZL vs INA,1
+Davis Cup G1 PO: LAT vs POL,1
+Davis Cup G2 R2: RSA vs POR,1
+Davis Cup G1 PO: ITA vs LAT,1
+Davis Cup G1 R1: JPN vs INA,1
+Davis Cup G1 PO: UZB vs KOR,1
+Davis Cup G1 PO: BAH vs COL,1
+Davis Cup G2 R1: LAT vs BUL,1
+Davis Cup WG QF: GER vs FRA,1
+Davis Cup WG R1: BEL vs ESP,1
+Davis Cup WG PO: SUI vs BLR,1
+Davis Cup G2 PO: HUN vs MDA,1
+Davis Cup G2 PO: NOR vs MON,1
+Davis Cup G2 R2: NOR vs MKD,1
+Davis Cup WG PO: CRO vs BRA,1
+Davis Cup G2 R1: NOR vs SLO,1
+Davis Cup G1 R2: ISR vs ITA,1
+Davis Cup G2 R2: HUN vs LAT,1
+Davis Cup WG F: CZE vs ESP,1
+Davis Cup G2 R2: EST vs BIH,1
+Davis Cup G1 PO: KAZ vs PHI,1
+Davis Cup G2 R1: IRI vs KUW,1
+Davis Cup G1 R1: TPE vs KAZ,1
+Davis Cup WG PO: ROU vs IND,1
+Davis Cup G2 R1: BUL vs GEO,1
+Davis Cup G2 F: PAR vs ECU,1
+Davis Cup G2 R1: EST vs HUN,1
+Davis Cup G2 R1: IRL vs MAR,1
+Davis Cup G1 QF: CRO vs AUT,1
+Davis Cup WG R1: SRB vs IND,1
+Davis Cup WG PO: SUI vs BEL,1
+Davis Cup WG PO: CRO vs GBR,1
+Davis Cup G2 R1: IRL vs DEN,1
+Davis Cup WG R1: CAN vs FRA,1
+Davis Cup G1 R2: PER vs MEX,1
+Davis Cup G2 R1: ALG vs MON,1
+Davis Cup G1 R2: GBR vs UKR,1
+Davis Cup G2 R1: ECU vs AHO,1
+Davis Cup G2 R1: GHA vs SLO,1
+Davis Cup G1 R1: KOR vs KAZ,1
+Davis Cup G1 SF: NZL vs UZB,1
+Davis Cup WG PO: CHI vs AUS,1
+Davis Cup G2 R2: BIH vs MDA,1
+Davis Cup WG R1: GER vs ARG,1
+Davis Cup G2 R1: UKR vs EGY,1
+Davis Cup G1 PO: SVK vs UKR,1
+Davis Cup G1 PO: UZB vs CHN,1
+Davis Cup WG PO: CAN vs RSA,1
+Davis Cup WG R1: ARG vs AUS,1
+Davis Cup G2 R2: YUG vs BUL,1
+Davis Cup G1 PO: KAZ vs CHN,1
+Davis Cup G2 R2: INA vs THA,1
