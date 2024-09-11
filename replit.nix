@@ -1,5 +1,7 @@
 {pkgs}: {
   deps = [
+    pkgs.openssh
+    pkgs.hdf5
     pkgs.tk
     pkgs.tcl
     pkgs.qhull
