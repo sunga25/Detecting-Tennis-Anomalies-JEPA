@@ -47,10 +47,10 @@ The project aims to identify irregularities in tennis matches by examining patte
    git clone https://github.com/yourusername/atp-tennis-analysis.git
    cd atp-tennis-analysis
 
-```bash
+
 pip install -r requirements.txt
 
-2. Download the ATP match data files and place them in the project directory. Ensure the files are named in the format atp_matches_<year>.csv (e.g., atp_matches_2000.csv).
+Download the ATP match data files and place them in the project directory. Ensure the files are named in the format atp_matches_<year>.csv (e.g., atp_matches_2000.csv).
 
 Run the main script to load data, preprocess it, and train the model:
 python main.py
