@@ -84,9 +84,13 @@ Used to prevent overfitting and improve model generalization.
 The project uses Optuna to automatically search for the best combination of model parameters, including:
 
 Embedding dimension
+
 Hidden layer size
+
 Learning rate
+
 Batch size
+
 Dropout rate
 
 ## Anomaly Detection
