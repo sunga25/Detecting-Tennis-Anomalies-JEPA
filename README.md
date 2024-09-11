@@ -71,9 +71,14 @@ Results, including anomaly plots and metrics, will be saved in the output direct
 ## Model Architecture
 The JointEmbeddedModel consists of:
 
-Embeddings for Categorical Features: Each categorical variable (e.g., player IDs, tournament IDs) is embedded into a dense vector.
-Fully Connected Layers: These layers combine embeddings and numerical features to predict match outcomes.
-Dropout Layers: Used to prevent overfitting and improve model generalization.
+Embeddings for Categorical Features: 
+Each categorical variable (e.g., player IDs, tournament IDs) is embedded into a dense vector.
+
+Fully Connected Layers: 
+These layers combine embeddings and numerical features to predict match outcomes.
+
+Dropout Layers: 
+Used to prevent overfitting and improve model generalization.
 
 ## Hyperparameter Optimization
 The project uses Optuna to automatically search for the best combination of model parameters, including:
