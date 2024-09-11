@@ -56,15 +56,15 @@ Ensure the files are named in the format atp_matches_<year>.csv (e.g., atp_match
 Run the main script to load data, preprocess it, and train the model:
 python main.py
 
-## Model Training:
+## Model Training
 
 The script trains the model using the preprocessed data, optimizing hyperparameters with Optuna, and saves the best-performing model.
 
-## Anomaly Detection:
+## Anomaly Detection
 
 The model’s predictions are used to perform anomaly detection, identifying unusual matches or player performances.
 
-## View Results:
+## View Results
 
 Results, including anomaly plots and metrics, will be saved in the output directory. CSV files summarizing the anomalies per player, year, and tournament will also be generated.
 
